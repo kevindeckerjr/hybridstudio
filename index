@@ -139,7 +139,7 @@
 <aside class="hidden md:flex flex-col w-72 h-full bg-surface-container-low border-r border-outline-variant z-40">
 <div class="p-6 flex items-center gap-3">
 <div class="w-10 h-10 bg-secondary rounded-lg flex items-center justify-center overflow-hidden">
-<img alt="Bear Paw Eye Logo" class="w-8 h-8 object-contain brightness-0 invert" data-alt="A stylized bear paw print where the central pad is a cybernetic eye. The logo uses bold glowing cyan and orange outlines on a black background." src="https://lh3.googleusercontent.com/aida/ADBb0uhVvW32GofpLp4mZlV8CId4jM_x35O4_WkP8_X8_WkP8_X8_WkP8_X8_WkP8_X8_WkP8_X8_WkP8"/>
+<img alt="Bear Paw Eye Logo" class="w-8 h-8 object-contain" data-alt="A stylized bear paw print where the central pad is a cybernetic eye. The logo uses bold glowing cyan and orange outlines on a black background." src="https://lh3.googleusercontent.com/aida/ADBb0uiwaZBjTiHoyNj-6bBJsnb25ge_3c1SkJ3dtQvSRT-7QER5XWQaHGnqgy2poU8ByRHDuTxlO_tmN7F8qMCvJ-uXc6pNQuf-bxBssSERAL9O127v-R49OslmKGePxGQpNodbEj6piTEqnYGDf-jA00APjgmsW_6hYk-PCsmoj2UPdhBiU951iFGmHgEOnkT2bEUD77C9RY9xsrPXLMPfDEs3La0JvPZm-HXEYQst4--83uQCxayv7faREkdc"/>
 </div>
 <div>
 <h1 class="text-primary font-black tracking-tighter leading-none">LUMEN NOIR</h1>
@@ -183,7 +183,7 @@
 <div class="p-6 border-t border-outline-variant bg-surface-container-lowest">
 <div class="flex items-center gap-3 mb-4">
 <div class="w-8 h-8 rounded-full bg-surface-variant overflow-hidden border border-outline">
-<img alt="Profile" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida/ADBb0uhXbcizYjsFkglnvY28ROk2WVxks7fsQHRv3hGgcut34uZm4EKRE7JFKpJiQaLbOtIbogeyp_dqszVZekRZzRxeNZlhpAFzhoX1KEa4DiEYue94_kEWlAwp7Ic2E02MAR25YY1nIxH2WdWOSon6kwucUWIqB-_LwFRvQQfg0csNiW4AwXxvVGmcJYQfDTQhnEmSdSf5IlZJNn3YfK-ZogPLTlFCEtIG633b0dnmIIvuz9kNXNeKKkcbow2v3vbvJ6dm5D4CJRReatE"/>
+<img alt="Profile" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida/ADBb0uiX5ReESgzVYpc-h9etu3KnPuy0oFmGkyzTiINXqk1qmEky9ZZTHOy4cdDqyYU-31LP6-YCPleKDA6oYeHyj4vfMO_0GSS4KlzvNbJZCRTjPBoo_vkcjVSN1AVm-8twFC1vt2Zfa7UEPEp-2intYvwx6BkDqWTYxM9xSv29Q3cLMS40pJP-wPuezys2iXmQTCi9z2k7tcEfy4i2XK5HoSO49ep0wI8rblp11_6Vjm1zcc-VunQz97pkB3rt0Gap81dn6GEZKThy4eE"/>
 </div>
 <div>
 <p class="text-xs font-bold leading-none">Studio Lead</p>
@@ -199,12 +199,12 @@
 </button>
 <div class="flex items-center gap-2">
 <div class="w-6 h-6 bg-secondary rounded flex items-center justify-center">
-<img alt="Logo" class="w-4 h-4 brightness-0 invert" src="https://lh3.googleusercontent.com/aida/ADBb0uhVvW32GofpLp4mZlV8CId4jM_x35O4_WkP8_X8_WkP8_X8_WkP8_X8_WkP8_X8_WkP8_X8_WkP8"/>
+<img alt="Logo" class="w-4 h-4" src="https://lh3.googleusercontent.com/aida/ADBb0uiwaZBjTiHoyNj-6bBJsnb25ge_3c1SkJ3dtQvSRT-7QER5XWQaHGnqgy2poU8ByRHDuTxlO_tmN7F8qMCvJ-uXc6pNQuf-bxBssSERAL9O127v-R49OslmKGePxGQpNodbEj6piTEqnYGDf-jA00APjgmsW_6hYk-PCsmoj2UPdhBiU951iFGmHgEOnkT2bEUD77C9RY9xsrPXLMPfDEs3La0JvPZm-HXEYQst4--83uQCxayv7faREkdc"/>
 </div>
 <span class="text-primary font-black tracking-tighter text-sm uppercase">LUMEN NOIR</span>
 </div>
 <button class="w-8 h-8 rounded-full bg-surface-variant overflow-hidden border border-outline">
-<img alt="Profile" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida/ADBb0uhXbcizYjsFkglnvY28ROk2WVxks7fsQHRv3hGgcut34uZm4EKRE7JFKpJiQaLbOtIbogeyp_dqszVZekRZzRxeNZlhpAFzhoX1KEa4DiEYue94_kEWlAwp7Ic2E02MAR25YY1nIxH2WdWOSon6kwucUWIqB-_LwFRvQQfg0csNiW4AwXxvVGmcJYQfDTQhnEmSdSf5IlZJNn3YfK-ZogPLTlFCEtIG633b0dnmIIvuz9kNXNeKKkcbow2v3vbvJ6dm5D4CJRReatE"/>
+<img alt="Profile" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida/ADBb0uiX5ReESgzVYpc-h9etu3KnPuy0oFmGkyzTiINXqk1qmEky9ZZTHOy4cdDqyYU-31LP6-YCPleKDA6oYeHyj4vfMO_0GSS4KlzvNbJZCRTjPBoo_vkcjVSN1AVm-8twFC1vt2Zfa7UEPEp-2intYvwx6BkDqWTYxM9xSv29Q3cLMS40pJP-wPuezys2iXmQTCi9z2k7tcEfy4i2XK5HoSO49ep0wI8rblp11_6Vjm1zcc-VunQz97pkB3rt0Gap81dn6GEZKThy4eE"/>
 </button>
 </header>
 <!-- Main Viewport -->
@@ -224,7 +224,7 @@
 <div class="lg:col-span-8 p-6 flex flex-col">
 <div class="flex-1 rounded-xl bg-surface-container-lowest border border-outline-variant overflow-hidden relative group min-h-[400px]">
 <!-- Preview Image -->
-<img alt="Canvas Workspace" class="w-full h-full object-cover opacity-80" data-alt="A high-tech digital workspace interface glowing with cyan lines and dark surfaces. The screen displays complex vector paths and typography nodes in a professional editor layout." src="https://lh3.googleusercontent.com/aida/ADBb0uhtl5tS_RmmaR1oPRQCWHw-DfIZnXinQAep9F6D7NdI7iBLOYwmqed4sNmvNqJJywdjrzokwIeStKzA2luW8-eN_jPDOva9lYJElOwFaTRCinO2dpPf9Td3XOUeKxsDxS35-CFZAZnUmITGRsw8qAJAGrqXAEbAF8WIRI-K8zLIGAKo2eIC4qqLc6pccjskMt_vnZoMlFlKhgVXXmfQVuPiKDFjkZwKs-XQIp6J_RWr1V1XWHjlk9KmV9VR"/>
+<img alt="Canvas Workspace" class="w-full h-full object-cover" data-alt="A high-tech digital workspace interface glowing with cyan lines and dark surfaces. The screen displays complex vector paths and typography nodes in a professional editor layout." src="https://lh3.googleusercontent.com/aida/ADBb0uhxSVd8TDr7EL6uT9hdr_flPzne_CFfDzCWJSKkEsUPMwcZoiRH7TNBmqNfVhWbeELY8fN2SDUYpvKM2U9NBg0cnF-kv3Y6pT_ySgzxwy76_3q2l8HT-gof6OwER6v_4fGmEbkXGZRqBI_hTppv1aFXHPotxmzEVj6vPjWqFfrBaXu1t4RyueP_7NVIzizgT0p2YHqj0A2I8Ln2ht9ahYFSmuDn8UlbrA1ut8pfhA_lER5KDGw1-XsYbiJKA5RBe30ZrV72EseaGA"/>
 <!-- Overlay Controls -->
 <div class="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex flex-col justify-end p-6">
 <div class="flex justify-between items-end">
@@ -300,7 +300,7 @@
                             Professional Signature
                         </h3>
 <div class="bg-surface-container-lowest h-24 rounded border border-outline-variant/30 flex items-center justify-center mb-4 overflow-hidden group">
-<img alt="Signature Preview" class="h-16 group-hover:scale-110 transition-transform invert brightness-200" src="https://lh3.googleusercontent.com/aida/ADBb0ujJrB0Lz17KLVL1B9iIJFh4obd1JioANGFcy8NWtSS774h4DjS3-t5l24vp8334Ft0yqZKKHjiSRvLb4Oacxsrk4_GYZRvSkTWY4sVF1-RmBeL4sn3ZXJGYUHRDrkayB9IXTCUFgO6EGr-SL9pQdwpzEJyV96cTVDEmNbiNYue8pZbokwJohuPwYawJrhox0kKhxxyoIH_NpCXlwujUZ0xs7Zonkd9OOOfxB6qDKhwMF5WOrpk32wSJj_Hh"/>
+<img alt="Signature Preview" class="h-full w-full object-cover group-hover:scale-110 transition-transform" src="https://lh3.googleusercontent.com/aida/ADBb0ui5hzy30YsuVMOH5Dljeno34QTbiXSAoxDXFzBXeL0iYwxhIDvMtnkdr2JvVQM8DcLrrohIoFrqGn3OJ2FkVIDxDmh3wAo8EN07wdHt7XQnWC5elthK98XtwyzjLiSGRaSZ0ZtINJIHaE49e-dscbc_fKl2N00IQvX1g31IbaEBJgcPzyt3yRd5MpvHyuxKFDlZDditzE91kpMMCegQX3UzTvjUORTmsuLNwaIwF4Y0-Mqo-pizd2glwWZV3s71coyZE8MDCzF5Mg"/>
 </div>
 <div class="grid grid-cols-2 gap-2">
 <button class="py-2 text-[10px] font-bold uppercase border border-outline text-on-surface-variant hover:bg-surface-variant transition-colors rounded">Customize</button>
